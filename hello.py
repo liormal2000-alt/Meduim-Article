@@ -1,2 +1,0 @@
-print("Ronaldo")
-print("messi")
